@@ -1,7 +1,5 @@
 # Doodle Spaceship
 
-![Background](.\Background.png)
-
 ## Introduction
 
 **Doodle Spaceship** is a casual game. Player's spaceship will follow player's mouse in a limited speed. Enemies will fly into the stage randomly and hole will appear on stage periodically, bringing a large quantity of enemies.
